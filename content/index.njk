@@ -6,9 +6,17 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+<h1>La música se muere al final </h1>
+
+<p> Esto es sonido fresco: es una plataforma para todos y de todos, en la que cualquiera podría colaborar</p>
+
+<h1> Pero por qué o qué? </h1>
+
+<p> Checa la página de <a href="about.md">acerca de</a> para saber quienes somos y que buscamos.</p>
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1>Últimos  {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}

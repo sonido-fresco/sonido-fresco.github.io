@@ -1,9 +1,9 @@
 ---js
 const eleventyNavigation = {
-	key: "About",
+	key: "Acerca de",
 	order: 3
 };
 ---
-# About
+# ¿Qué es este lugar?
 
-I am a person that writes stuff.
+Es largo de explicar, pero preparamos un sesudo documento al respecto. 
