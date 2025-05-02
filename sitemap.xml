@@ -2,57 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/sonido-fresco/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/sonido-fresco/blog/thirdpost/</loc>
-		<lastmod>2018-08-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/sonido-fresco/blog/fourthpost/</loc>
-		<lastmod>2018-09-30</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/sonido-fresco/blog/demo_post/</loc>
+		<loc>https://example.com/sonido-fresco-blog/blog/demo_post/</loc>
 		<lastmod>2025-04-27</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/blog/facebook_post/</loc>
+		<loc>https://example.com/sonido-fresco-blog/blog/facebook_post/</loc>
 		<lastmod>2025-04-27</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/about/</loc>
-		<lastmod>2025-04-28</lastmod>
+		<loc>https://example.com/sonido-fresco-blog/about/</loc>
+		<lastmod>2025-05-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/blog/</loc>
-		<lastmod>2025-04-28</lastmod>
+		<loc>https://example.com/sonido-fresco-blog/blog/</loc>
+		<lastmod>2025-05-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/</loc>
-		<lastmod>2025-04-28</lastmod>
+		<loc>https://example.com/sonido-fresco-blog/</loc>
+		<lastmod>2025-05-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/tags/</loc>
-		<lastmod>2025-04-28</lastmod>
+		<loc>https://example.com/sonido-fresco-blog/tags/</loc>
+		<lastmod>2025-05-02</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://example.com/sonido-fresco/feed/feed.xml</loc>
-		<lastmod>2025-04-28</lastmod>
+		<loc>https://example.com/sonido-fresco-blog/feed/feed.xml</loc>
+		<lastmod>2025-05-02</lastmod>
 	</url>
 </urlset>
