@@ -6,10 +6,10 @@ tags: ["Manifiesto"]
 ---
 
 > Era un aire suave de pausados giros, era la tarde y la hora, era del año la estación florida, era el Verbo (en el principio), era un hombre que se creía un hombre. Qué burrada infinita, madre mía.
-> *Rayuela, Capítulo 93*.
+> **Rayuela, Capítulo 93**.
 
 > El que mucho abarca poco aprieta.
-> *Refrán popular*.
+> **Refrán popular**.
 
 El desarrollo de la palabra escrita marca un punto de inflexión en la historia. La emergencia de la escritura en distintas culturas esparcidas por todas las latitudes y longitudes permitió materializar ideas y hacerlas perdurar. Abrió la puerta a la reproducción en masa, aumentó la distancia entre el locutor y su audiencia, y con ello, la diversidad interpretativa. Asumiendo la escritura como medio de perdurar la información, el presente se puede interpretar como su punto de máximo desarrollo: nuestras tecnologías codifican y almacenan miles de millones de caracteres, de sonidos y de figuras en dispositivos diminutos, más pequeños que una moneda, que nos otorgan una pluralidad de artefactos para crear, modificar e interactuar con esta información.
 
