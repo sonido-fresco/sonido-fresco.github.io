@@ -3,30 +3,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <title>Entradas</title>
   <subtitle>Lee nuestras principales entradas</subtitle>
-  <link href="https://example.com/sonido-fresco-blog/feed/feed.xml" rel="self" />
-  <link href="https://example.com/sonido-fresco-blog/" />
+  <link href="https://example.com/feed/feed.xml" rel="self" />
+  <link href="https://example.com/" />
   <updated>2025-04-27T00:00:00Z</updated>
-  <id>https://example.com/sonido-fresco-blog/</id>
+  <id>https://example.com/</id>
   <author>
     <name>Aldo </name>
   </author>
   <entry>
     <title>Comentarios en facebook</title>
-    <link href="https://example.com/sonido-fresco-blog/blog/facebook_post/" />
+    <link href="https://example.com/blog/facebook_post/" />
     <updated>2025-04-27T00:00:00Z</updated>
-    <id>https://example.com/sonido-fresco-blog/blog/facebook_post/</id>
+    <id>https://example.com/blog/facebook_post/</id>
     <content type="html">&lt;h2 id=&quot;prueba-de-bandcamp&quot;&gt;Prueba de Bandcamp&lt;/h2&gt;
 &lt;p&gt;Vamoa ver si podemos poner una rolita de bandcamp&lt;/p&gt;
 &lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=96121671/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/track=1601924826/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://blankmindlabel.bandcamp.com/album/lost-paradise-blissed-out-breakbeat-hardcore-1991-94&quot;&gt;Lost Paradise: Blissed Out Breakbeat Hardcore 1991-94 by DJ Mayhem&lt;/a&gt;&lt;/iframe&gt;</content>
   </entry>
   <entry>
     <title>Post de prueba</title>
-    <link href="https://example.com/sonido-fresco-blog/blog/demo_post/" />
+    <link href="https://example.com/blog/demo_post/" />
     <updated>2025-04-27T00:00:00Z</updated>
-    <id>https://example.com/sonido-fresco-blog/blog/demo_post/</id>
+    <id>https://example.com/blog/demo_post/</id>
     <content type="html">&lt;h1 id=&quot;holita&quot;&gt;Holita&lt;/h1&gt;
 &lt;p&gt;Esta es ua entrada de blog no más para demostrar que nuestra página funciona bien. La fotito nada más pretende enseñar que todo está bien&lt;/p&gt;
-&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/sonido-fresco-blog/blog/demo_post/ju1PjqPc9s-1000.avif 1000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/sonido-fresco-blog/blog/demo_post/ju1PjqPc9s-1000.webp 1000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/sonido-fresco-blog/blog/demo_post/ju1PjqPc9s-1000.jpeg&quot; alt=&quot;Un lindo patito&quot; width=&quot;1000&quot; height=&quot;667&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/demo_post/ju1PjqPc9s-1000.avif 1000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/demo_post/ju1PjqPc9s-1000.webp 1000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/demo_post/ju1PjqPc9s-1000.jpeg&quot; alt=&quot;Un lindo patito&quot; width=&quot;1000&quot; height=&quot;667&quot;&gt;&lt;/picture&gt;
 &lt;h2 id=&quot;prueba-de-youtube&quot;&gt;Prueba de Youtube&lt;/h2&gt;
 &lt;p&gt;Vamoa ver si podemos poner una rolita&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kl1WXSOPOVc?si=EmtuzL1XpJlKNlD8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
