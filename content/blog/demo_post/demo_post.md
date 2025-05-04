@@ -22,5 +22,5 @@ Todas las artes, todos los productos culturales, han sufrido las consecuencias d
 Desde esta trinchera, nos manifestamos en completo desacato tanto con esta cultura como con el nihilismo humildemente representado en el coloquial “¿y yo que puedo hacer?”. Este espacio se plantea como un lugar de reflexión y resistencia contra esta decadente cultura de consumo a través de la escritura de pequeñas prosas que inviten a escuchar la música y no a simplemente masticar y digerir a medias. Buscamos crear una comunidad en la que todas las expresiones sonoras sean válidas, sean éstas discos, EPs, mixtapes, DJ sets, videos, fragmentos, o cualquier otro objeto auditivo. A su vez, queremos también revalorizar a lxs artistas como creadores de paisajes sonoros capaces de transportarnos fuera de nuestra cotidianidad. Pretendemos ser una embarcación que se mueve a una confortable velocidad sobre el piélago multimedia, llevando a la superficie objetos que se están hundiendo, iluminando con nuestro humilde faro buques que navegan solos, explorando con calma algunas islas y archipiélagos, e intercambiando con cuantos quiera navíos que se acerquen.
 
 <p align="center">
-	<img src="./pescadores_vertical.png">
+	<img src="./pescadores.jpg" alt="Pescadores">
 </p>
