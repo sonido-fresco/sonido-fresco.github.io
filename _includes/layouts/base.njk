@@ -21,8 +21,22 @@
 		3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
 		#}
 
-		{#- Add an arbitrary string to the bundle #}
+		
 		<style>/* This is an arbitrary CSS string added to the bundle */</style>
+		{#- Add an arbitrary string to the bundle #}
+		<style>
+        /* Default style for the image */
+        .inverted-image {
+            transition: filter 0.3s ease-in-out;
+        }
+
+        /* Invert colors in dark mode */
+        @media (prefers-color-scheme: dark) {
+            .inverted-image {
+                filter: invert(1);
+            }
+        }
+    	</style>
 		{#- Add the contents of a file to the bundle #}
 		<style>{% include "css/index.css" %}</style>
 		{#- Or you can add from node_modules #}
