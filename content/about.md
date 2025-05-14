@@ -12,11 +12,6 @@ const eleventyNavigation = {
 
 > **Refrán popular**.
 
-<p align="center">
-	<img src="./barco.jpg" alt="Un barco sobre el océano">
-</p>
-
-
 Nos hallamos invadidos y rebasados, navegando el internet como en un inmenso mar de contenido, expresado en todo tipo de lenguajes y medios, al que podemos acceder en cualquier momento del día desde una microcomputadora de bolsillo: transferencia inmediata de cualesquiera creaciones hasta el destino más recóndito del orbe. Las redes sociales, lucrando en grandes proporciones mediante una economía de la atención que nos mantiene enajenados consumiendo memes, fotografías y videos que olvidaremos en unas cuantas horas, no necesariamente por que esos objetos carezcan de valor, sino por la limitación humana de retener en la memoria tanta (y tan diversa) información. Cada día se vuelve más sencillo ahogarse en estas vastas e inconmensurables aguas virtuales.
 
 Esto no es un efecto aislado: en un capitalismo cada vez más rapaz y despiadado, la oferta y el consumo se ha acelerado a niveles inimaginables. La globalización permite llevar bienes fabricados en condiciones de esclavitud a cualquier rincón del mundo, sin la incomodidad de dichos entornos de producción, comprados al mayoreo por el menor precio posible, engrosando los bolsillos de todos los intermediarios. El deterioro de la calidad de vida, donde nuestros escasos bienes se devalúan continuamente y la precarización laboral nos roba cada vez más tiempo, nos orilla al consumo de objetos efímeros, virtuales o materiales, que nos otorgan un poco de dopamina y distraen nuestra atención de la sórdida realidad: el mundo y la vida se agotan a cuenta gota en ciclos de producción y consumo que nos rebasan y nos conducen a un desenlace fatal.
