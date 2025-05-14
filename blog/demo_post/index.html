@@ -6,10 +6,24 @@
 		<title>Contra la cultura de consumo de cultura</title>
 		<meta name="description" content="Manifiesto del Sonido Fresco">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Sonido Fresco">
+
+		
+		
 		
 		
 		
 		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Default style for the image */
+        .inverted-image {
+            transition: filter 0.3s ease-in-out;
+        }
+
+        /* Invert colors in dark mode */
+        @media (prefers-color-scheme: dark) {
+            .inverted-image {
+                filter: invert(1);
+            }
+        }
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
@@ -504,7 +518,7 @@ pre[class*="language-diff-"] {
 <p>Todas las artes, todos los productos culturales, han sufrido las consecuencias de esta aceleración en los métodos de consumo. La música, quizá debido a su estrecha relación con la tecnología, aparece como la gran perdedora de este cambio de paradigma. Cuando más del 80% del ingreso generado por la música es a través plataformas de streaming, que pagan a los artistas regalías que se asemejan más a una limosna que a una remuneración (ya ni se diga que esta sea justa), la vida del músico moderno se vuelve cada vez más dependiente de la viralidad y el consumo fugaz. Atrás quedaron las épocas en las que una artista podía desarrollar una carrera a lo largo de varios años, con algunos discos, giras, tal vez distintas agrupaciones y desarrollando un género y un estilo personal, con tropiezos y, si la fortuna lo permite, con algunas inversiones fallidas.</p>
 <p>Desde esta trinchera, nos manifestamos en completo desacato tanto con esta cultura como con el nihilismo humildemente representado en el coloquial “¿y yo que puedo hacer?”. Este espacio se plantea como un lugar de reflexión y resistencia contra esta decadente cultura de consumo a través de la escritura de pequeñas prosas que inviten a escuchar la música y no a simplemente masticar y digerir a medias. Buscamos crear una comunidad en la que todas las expresiones sonoras sean válidas, sean éstas discos, EPs, mixtapes, DJ sets, videos, fragmentos, o cualquier otro objeto auditivo. A su vez, queremos también revalorizar a lxs artistas como creadores de paisajes sonoros capaces de transportarnos fuera de nuestra cotidianidad. Pretendemos ser una embarcación que se mueve a una confortable velocidad sobre el piélago multimedia, llevando a la superficie objetos que se están hundiendo, iluminando con nuestro humilde faro buques que navegan solos, explorando con calma algunas islas y archipiélagos, e intercambiando con cuantos quiera navíos que se acerquen.</p>
 <p align="center">
-	<picture><source type="image/avif" srcset="/blog/demo_post/I-Zje2fHq4-420.avif 420w"><source type="image/webp" srcset="/blog/demo_post/I-Zje2fHq4-420.webp 420w"><img loading="lazy" decoding="async" src="/blog/demo_post/I-Zje2fHq4-420.jpeg" alt="Pescadores" width="420" height="420"></picture>
+	<picture><source type="image/avif" srcset="/blog/demo_post/I-Zje2fHq4-420.avif 420w"><source type="image/webp" srcset="/blog/demo_post/I-Zje2fHq4-420.webp 420w"><img loading="lazy" decoding="async" src="/blog/demo_post/I-Zje2fHq4-420.jpeg" alt="Pescadores" class="inverted-image" width="420" height="420"></picture>
 </p>
 
 <ul class="links-nextprev"><li class="links-nextprev-next">Next →<br><a href="/blog/facebook_post/">Comentarios en facebook</a></li>
@@ -517,7 +531,7 @@ pre[class*="language-diff-"] {
 			<p><em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.0</a></em></p>
 		</footer>
 
-		<!-- This page `/blog/demo_post/` was built on 2025-05-14T09:42:21.286Z -->
+		<!-- This page `/blog/demo_post/` was built on 2025-05-14T09:49:58.038Z -->
 		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
 	</body>
 </html>

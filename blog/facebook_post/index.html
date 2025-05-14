@@ -6,10 +6,24 @@
 		<title>Comentarios en facebook</title>
 		<meta name="description" content="Prueba para ver si los comentarios de facebook funcionan">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Sonido Fresco">
+
+		
+		
 		
 		
 		
 		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Default style for the image */
+        .inverted-image {
+            transition: filter 0.3s ease-in-out;
+        }
+
+        /* Invert colors in dark mode */
+        @media (prefers-color-scheme: dark) {
+            .inverted-image {
+                filter: invert(1);
+            }
+        }
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
@@ -500,7 +514,7 @@ pre[class*="language-diff-"] {
 			<p><em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.0</a></em></p>
 		</footer>
 
-		<!-- This page `/blog/facebook_post/` was built on 2025-05-14T09:42:21.286Z -->
+		<!-- This page `/blog/facebook_post/` was built on 2025-05-14T09:49:58.038Z -->
 		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
 	</body>
 </html>

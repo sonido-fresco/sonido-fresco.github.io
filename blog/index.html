@@ -6,10 +6,24 @@
 		<title>Sonido Fresco</title>
 		<meta name="description" content="Nos gusta la música y nos gusta escribir.">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Sonido Fresco">
+
+		
+		
 		
 		
 		
 		<style>/* This is an arbitrary CSS string added to the bundle */
+/* Default style for the image */
+        .inverted-image {
+            transition: filter 0.3s ease-in-out;
+        }
+
+        /* Invert colors in dark mode */
+        @media (prefers-color-scheme: dark) {
+            .inverted-image {
+                filter: invert(1);
+            }
+        }
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
@@ -332,7 +346,7 @@ header {
 			<p><em>Built with <a href="https://www.11ty.dev/">Eleventy v3.1.0</a></em></p>
 		</footer>
 
-		<!-- This page `/blog/` was built on 2025-05-14T09:42:21.285Z -->
+		<!-- This page `/blog/` was built on 2025-05-14T09:49:58.037Z -->
 		<script type="module" src="/dist/xbxy_EL6cU.js"></script>
 	</body>
 </html>
